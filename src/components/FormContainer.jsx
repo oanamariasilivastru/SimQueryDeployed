@@ -36,12 +36,12 @@ const FormContainer = () => {
     <div className="form-container">
       <div className="col col-1">
         <div className="image-layer">
-          <img src="src/assets/white-outline.png" className="form-image-main" alt="Main" />
-          <img src="src/assets/dots.png" className="form-image dots" alt="Dots" />
-          <img src="src/assets/coin.png" className="form-image coin" alt="Coin" />
-          <img src="src/assets/spring.png" className="form-image spring" alt="Spring" />
-          <img src="src/assets/rocket.png" className="form-image rocket" alt="Rocket" />
-          <img src="src/assets/cloud.png" className="form-image cloud" alt="Cloud" />
+          <img src="/white-outline.png" className="form-image-main" alt="Main" />
+          <img src="/dots.png" className="form-image dots" alt="Dots" />
+          <img src="/coin.png" className="form-image coin" alt="Coin" />
+          <img src="/spring.png" className="form-image spring" alt="Spring" />
+          <img src="/rocket.png" className="form-image rocket" alt="Rocket" />
+          <img src="/cloud.png" className="form-image cloud" alt="Cloud" />
         </div>
         <p className="featured-words">You Are Few Minutes Away to Boost Your Skills</p>
       </div>
